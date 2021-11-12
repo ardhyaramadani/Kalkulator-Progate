@@ -15,7 +15,6 @@ function equal(){
  }
  if(x){
      document.form.textView.value = eval(x);
-
  }
  
 }
