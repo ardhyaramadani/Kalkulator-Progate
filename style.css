@@ -39,6 +39,7 @@ body{
 .equal:hover{
     background-color: green;
     color: white;
+    height: 110px
 }
 .zero{
     width: 110px;
