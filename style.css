@@ -39,7 +39,6 @@ body{
 .equal:hover{
     background-color: green;
     color: white;
-    height: 110px
 }
 .zero{
     width: 110px;
@@ -47,4 +46,7 @@ body{
 .del:hover{
     background: red;
     color: white;
+}
+.equal{
+    height: 110px;
 }
